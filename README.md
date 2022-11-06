@@ -2,7 +2,8 @@
 
 To-do lista
 ##  
-Simppeli to-do lista. done + delete nappulat, sekä taustavärin vaihto. pushattu githubiin valmiina.
+Simppeli to-do lista. done + delete nappulat, sekä taustavärin vaihto. 
+Pushattu githubiin valmiina.
 
 ##
 Tekijät:
